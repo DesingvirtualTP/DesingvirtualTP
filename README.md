@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @DesingvirtualTP
+- 👋 Hello, I'm @virtualTP
 - 👀 I am interested in web development, graphic design and digital innovation.
 - 🌱 I am currently learning HTML, CSS, JavaScript, etc. to create dynamic and attractive websites.
 - 💞️ I am looking to collaborate on projects that combine art and technology in a creative and original way.
